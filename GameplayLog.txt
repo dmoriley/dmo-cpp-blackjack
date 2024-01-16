@@ -1,0 +1,2521 @@
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:03:32 2016
+
+=========================
+
+Malisa
+Player Malisa's Cards: 
+King of Spades
+Four of Diamonds
+
+Total: 14
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Seven of Hearts
+Queen of Diamonds
+
+Total: 17
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Two of Diamonds
+Three of Hearts
+
+Total: 5
+
+	************
+
+Jane
+Player Jane's Cards: 
+Jack of Spades
+Eight of Spades
+
+Total: 18
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Nine of Hearts
+Two of Spades
+
+Total: 11
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Five of Hearts
+Six of Spades
+
+Total: 11
+Malisa hit.
+Mitchel The Valient stands.
+Dillon hit.
+Jane stands.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Malisa
+Computer Loss
+
+	************
+
+Mitchel The Valient
+Computer Loss
+
+	************
+
+Dillon
+Computer Loss
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Nine of Hearts
+Two of Spades
+Nine of Hearts
+
+Total: 20
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Five of Hearts
+Six of Spades
+Queen of Hearts
+
+Total: 21
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:04:30 2016
+
+=========================
+
+Malisa
+Player Malisa's Cards: 
+Eight of Clubs
+Eight of Diamonds
+
+Total: 16
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Six of Clubs
+Nine of Diamonds
+
+Total: 15
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Queen of Spades
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Clubs
+Five of Clubs
+
+Total: 9
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Two of Clubs
+Two of Spades
+
+Total: 4
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Diamonds
+
+Total: 14
+Malisa hit.
+Mitchel The Valient hit.
+Dillon stands.
+Jane hit.
+
+Malisa
+Player Malisa's Cards: 
+Eight of Clubs
+Eight of Diamonds
+King of Clubs
+
+Total: 26
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Six of Clubs
+Nine of Diamonds
+Five of Spades
+
+Total: 20
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Queen of Spades
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Clubs
+Five of Clubs
+King of Spades
+
+Total: 19
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Two of Clubs
+Two of Spades
+Three of Hearts
+
+Total: 7
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Diamonds
+
+Total: 14
+Malisa busted.
+Mitchel The Valient stands.
+Dillon stands.
+Jane stands.
+
+Malisa
+Player Malisa's Cards: 
+Eight of Clubs
+Eight of Diamonds
+King of Clubs
+
+Total: 26
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Six of Clubs
+Nine of Diamonds
+Five of Spades
+
+Total: 20
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Queen of Spades
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Clubs
+Five of Clubs
+King of Spades
+
+Total: 19
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Two of Clubs
+Two of Spades
+Three of Hearts
+Ten of Diamonds
+
+Total: 17
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Diamonds
+
+Total: 14
+Malisa busted.
+Mitchel The Valient stands.
+Dillon stands.
+Jane stands.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Malisa
+Computer Loss
+
+	************
+
+Mitchel The Valient
+Computer Loss
+
+	************
+
+Dillon
+Computer Loss
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Two of Clubs
+Two of Spades
+Three of Hearts
+Ten of Diamonds
+
+Total: 17
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Diamonds
+Four of Spades
+
+Total: 18
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:04:47 2016
+
+=========================
+
+Malisa
+Player Malisa's Cards: 
+Seven of Diamonds
+Ten of Spades
+
+Total: 17
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Ace of Spades
+Eight of Hearts
+
+Total: 19
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Five of Diamonds
+Queen of Clubs
+
+Total: 15
+
+	************
+
+Jane
+Player Jane's Cards: 
+Six of Spades
+Four of Hearts
+
+Total: 10
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Nine of Clubs
+Seven of Spades
+
+Total: 16
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Two of Diamonds
+
+Total: 5
+Malisa stands.
+Mitchel The Valient stands.
+Dillon hit.
+Jane hit.
+
+Dealer hit.
+Dealer hit.
+Dealer busted.
+
+FINAL RESULTS
+
+Malisa
+Computer Win
+
+	************
+
+Mitchel The Valient
+Computer Win
+
+	************
+
+Dillon
+Computer Win
+
+	************
+
+Jane
+Computer Win
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Nine of Clubs
+Seven of Spades
+
+Total: 16
+	************
+
+
+Dealer Busted You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Two of Diamonds
+Jack of Clubs
+Queen of Clubs
+
+Total: 25
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:05:37 2016
+
+=========================
+
+Malisa
+Player Malisa's Cards: 
+Ten of Hearts
+Eight of Hearts
+
+Total: 18
+
+	************
+
+Mitchel The Valient
+Player Mitchel The Valient's Cards: 
+Two of Hearts
+Jack of Spades
+
+Total: 12
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Jack of Diamonds
+Queen of Hearts
+
+Total: 20
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Spades
+Ace of Hearts
+
+Total: 15
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player daid's Cards: 
+Jack of Clubs
+Five of Hearts
+
+Total: 15
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Diamonds
+Ace of Clubs
+
+Total: 21
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:18:11 2016
+
+=========================
+
+Angela
+Player Angela's Cards: 
+Eight of Diamonds
+Jack of Spades
+
+Total: 18
+
+	************
+
+Malisa
+Player Malisa's Cards: 
+Four of Spades
+Queen of Hearts
+
+Total: 14
+
+	************
+
+Anthony
+Player Anthony's Cards: 
+Nine of Spades
+Ace of Clubs
+
+Total: 20
+
+	************
+
+James
+Player James's Cards: 
+Jack of Hearts
+Four of Clubs
+
+Total: 14
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Five of Hearts
+Nine of Spades
+
+Total: 14
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Ace of Hearts
+King of Clubs
+
+Total: 21
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:27:06 2016
+
+=========================
+
+Anthony
+Player Anthony's Cards: 
+Five of Spades
+Four of Diamonds
+
+Total: 9
+
+	************
+
+Tim
+Player Tim's Cards: 
+Nine of Clubs
+Eight of Spades
+
+Total: 17
+
+	************
+
+Malisa
+Player Malisa's Cards: 
+Jack of Hearts
+Six of Spades
+
+Total: 16
+
+	************
+
+James
+Player James's Cards: 
+Ten of Diamonds
+King of Diamonds
+
+Total: 20
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Four of Hearts
+Six of Clubs
+
+Total: 10
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Nine of Spades
+
+Total: 12
+Anthony hit.
+Tim stands.
+Malisa hit.
+James stands.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Anthony
+Computer Loss
+
+	************
+
+Tim
+Computer Loss
+
+	************
+
+Malisa
+Push!
+
+	************
+
+James
+Push!
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Four of Hearts
+Six of Clubs
+
+Total: 10
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Nine of Spades
+Six of Hearts
+
+Total: 18
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:27:41 2016
+
+=========================
+
+Angela
+Player Angela's Cards: 
+Jack of Diamonds
+Three of Diamonds
+
+Total: 13
+
+	************
+
+Tim
+Player Tim's Cards: 
+Seven of Clubs
+King of Hearts
+
+Total: 17
+
+	************
+
+Malisa
+Player Malisa's Cards: 
+Jack of Hearts
+Three of Hearts
+
+Total: 13
+
+	************
+
+Anthony
+Player Anthony's Cards: 
+Ace of Clubs
+Two of Spades
+
+Total: 13
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Nine of Clubs
+Queen of Spades
+
+Total: 19
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Nine of Hearts
+Ace of Spades
+
+Total: 20
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:28:35 2016
+
+=========================
+
+Jane
+Player Jane's Cards: 
+King of Diamonds
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Eight of Spades
+Eight of Diamonds
+
+Total: 16
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Eight of Hearts
+Queen of Hearts
+
+Total: 18
+
+	************
+
+Tyler the Noble
+Player Tyler the Noble's Cards: 
+King of Hearts
+Five of Hearts
+
+Total: 15
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Ace of Diamonds
+
+Total: 14
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Six of Clubs
+Four of Spades
+
+Total: 10
+Jane stands.
+Dillon hit.
+David the Brave stands.
+Tyler the Noble hit.
+
+Jane
+Player Jane's Cards: 
+King of Diamonds
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Eight of Spades
+Eight of Diamonds
+Four of Spades
+
+Total: 20
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Eight of Hearts
+Queen of Hearts
+
+Total: 18
+
+	************
+
+Tyler the Noble
+Player Tyler the Noble's Cards: 
+King of Hearts
+Five of Hearts
+Ten of Hearts
+
+Total: 25
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Ace of Diamonds
+Jack of Spades
+
+Total: 14
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Six of Clubs
+Four of Spades
+
+Total: 10
+Jane stands.
+Dillon stands.
+David the Brave stands.
+Tyler the Noble busted.
+
+Jane
+Player Jane's Cards: 
+King of Diamonds
+Nine of Clubs
+
+Total: 19
+
+	************
+
+Dillon
+Player Dillon's Cards: 
+Eight of Spades
+Eight of Diamonds
+Four of Spades
+
+Total: 20
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Eight of Hearts
+Queen of Hearts
+
+Total: 18
+
+	************
+
+Tyler the Noble
+Player Tyler the Noble's Cards: 
+King of Hearts
+Five of Hearts
+Ten of Hearts
+
+Total: 25
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Ace of Diamonds
+Jack of Spades
+Three of Spades
+
+Total: 17
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Six of Clubs
+Four of Spades
+
+Total: 10
+Jane stands.
+Dillon stands.
+David the Brave stands.
+Tyler the Noble busted.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Jane
+Push!
+
+	************
+
+Dillon
+Push!
+
+	************
+
+David the Brave
+Computer Loss
+
+	************
+
+Tyler the Noble
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Ace of Diamonds
+Jack of Spades
+Three of Spades
+
+Total: 17
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Six of Clubs
+Four of Spades
+Nine of Diamonds
+
+Total: 19
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Mon Dec 05 11:39:22 2016
+
+=========================
+
+Malisa
+Player Malisa's Cards: 
+Three of Spades
+Four of Clubs
+
+Total: 7
+
+	************
+
+Anthony
+Player Anthony's Cards: 
+Jack of Diamonds
+Seven of Spades
+
+Total: 17
+
+	************
+
+Tim
+Player Tim's Cards: 
+Six of Diamonds
+Five of Clubs
+
+Total: 11
+
+	************
+
+James
+Player James's Cards: 
+King of Hearts
+Eight of Spades
+
+Total: 18
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player 123's Cards: 
+Two of Hearts
+King of Spades
+
+Total: 12
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Six of Clubs
+Jack of Hearts
+
+Total: 16
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 08:43:14 2016
+
+=========================
+
+Tim
+Player Tim's Cards: 
+Queen of Diamonds
+Three of Clubs
+
+Total: 13
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Eight of Diamonds
+Jack of Clubs
+
+Total: 18
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Seven of Clubs
+Nine of Clubs
+
+Total: 16
+
+	************
+
+Angela
+Player Angela's Cards: 
+Seven of Hearts
+King of Spades
+
+Total: 17
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Seven of Diamonds
+Five of Clubs
+
+Total: 12
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Five of Spades
+Six of Diamonds
+
+Total: 11
+Tim hit.
+David the Brave stands.
+Deborah hit.
+Angela stands.
+
+Tim busted.
+Deborah busted.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Tim
+Computer Loss
+
+	************
+
+David the Brave
+Computer Loss
+
+	************
+
+Deborah
+Computer Loss
+
+	************
+
+Angela
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Seven of Diamonds
+Five of Clubs
+King of Spades
+
+Total: 22
+	************
+
+
+You busted!
+Dealer Wins!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Five of Spades
+Six of Diamonds
+Jack of Hearts
+
+Total: 21
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 08:43:28 2016
+
+=========================
+
+Tim
+Player Tim's Cards: 
+Ten of Hearts
+King of Hearts
+
+Total: 20
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Two of Clubs
+Two of Diamonds
+
+Total: 4
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Seven of Spades
+Ten of Clubs
+
+Total: 17
+
+	************
+
+Angela
+Player Angela's Cards: 
+Two of Spades
+Ten of Diamonds
+
+Total: 12
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Jack of Spades
+Queen of Clubs
+
+Total: 20
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Queen of Hearts
+Two of Hearts
+
+Total: 12
+Tim stands.
+David the Brave hit.
+Deborah stands.
+Angela hit.
+
+Dealer hit.
+Dealer busted.
+
+FINAL RESULTS
+
+Tim
+Computer Win
+
+	************
+
+David the Brave
+Computer Win
+
+	************
+
+Deborah
+Computer Win
+
+	************
+
+Angela
+Computer Win
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Jack of Spades
+Queen of Clubs
+
+Total: 20
+	************
+
+
+Dealer Busted You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Queen of Hearts
+Two of Hearts
+Ten of Hearts
+
+Total: 22
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 08:44:00 2016
+
+=========================
+
+Tim
+Player Tim's Cards: 
+Three of Hearts
+Eight of Hearts
+
+Total: 11
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Three of Spades
+Nine of Spades
+
+Total: 12
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+King of Clubs
+Two of Clubs
+
+Total: 12
+
+	************
+
+Angela
+Player Angela's Cards: 
+Ace of Hearts
+King of Clubs
+
+Total: 21
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Queen of Hearts
+King of Hearts
+
+Total: 20
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Eight of Clubs
+
+Total: 11
+Tim hit.
+David the Brave hit.
+Deborah hit.
+Angela stands.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Tim
+Push!
+
+	************
+
+David the Brave
+Computer Loss
+
+	************
+
+Deborah
+Computer Loss
+
+	************
+
+Angela
+Push!
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Queen of Hearts
+King of Hearts
+
+Total: 20
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Three of Diamonds
+Eight of Clubs
+Queen of Spades
+
+Total: 21
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 08:44:28 2016
+
+=========================
+
+Tim
+Player Tim's Cards: 
+Nine of Clubs
+Two of Spades
+
+Total: 11
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Jack of Diamonds
+Four of Spades
+
+Total: 14
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Three of Hearts
+Jack of Clubs
+
+Total: 13
+
+	************
+
+Angela
+Player Angela's Cards: 
+Three of Spades
+Seven of Clubs
+
+Total: 10
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Eight of Clubs
+King of Diamonds
+
+Total: 18
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Hearts
+
+Total: 14
+Tim hit.
+David the Brave hit.
+Deborah hit.
+Angela hit.
+
+Dealer hit.
+Dealer busted.
+
+FINAL RESULTS
+
+Tim
+Computer Win
+
+	************
+
+David the Brave
+Computer Win
+
+	************
+
+Deborah
+Computer Win
+
+	************
+
+Angela
+Computer Win
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Eight of Clubs
+King of Diamonds
+
+Total: 18
+	************
+
+
+Dealer Busted You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Eight of Spades
+Six of Hearts
+Queen of Clubs
+
+Total: 24
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 08:45:11 2016
+
+=========================
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Ace of Diamonds
+
+Total: 16
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Jack of Diamonds
+Ten of Diamonds
+
+Total: 20
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Eight of Spades
+Nine of Diamonds
+
+Total: 17
+
+	************
+
+Angela
+Player Angela's Cards: 
+Seven of Hearts
+Six of Spades
+
+Total: 13
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Four of Hearts
+Four of Spades
+
+Total: 8
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Ace of Spades
+Four of Diamonds
+
+Total: 15
+Tim hit.
+David the Brave stands.
+Deborah stands.
+Angela hit.
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Ace of Diamonds
+Ace of Hearts
+
+Total: 17
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Jack of Diamonds
+Ten of Diamonds
+
+Total: 20
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Eight of Spades
+Nine of Diamonds
+
+Total: 17
+
+	************
+
+Angela
+Player Angela's Cards: 
+Seven of Hearts
+Six of Spades
+Jack of Hearts
+
+Total: 23
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Four of Hearts
+Four of Spades
+Six of Spades
+
+Total: 14
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Ace of Spades
+Four of Diamonds
+
+Total: 15
+Tim stands.
+David the Brave stands.
+Deborah stands.
+Angela busted.
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Ace of Diamonds
+Ace of Hearts
+
+Total: 17
+
+	************
+
+David the Brave
+Player David the Brave's Cards: 
+Jack of Diamonds
+Ten of Diamonds
+
+Total: 20
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Eight of Spades
+Nine of Diamonds
+
+Total: 17
+
+	************
+
+Angela
+Player Angela's Cards: 
+Seven of Hearts
+Six of Spades
+Jack of Hearts
+
+Total: 23
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Four of Hearts
+Four of Spades
+Six of Spades
+Five of Hearts
+
+Total: 19
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Ace of Spades
+Four of Diamonds
+
+Total: 15
+Tim stands.
+David the Brave stands.
+Deborah stands.
+Angela busted.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Tim
+Computer Loss
+
+	************
+
+David the Brave
+Push!
+
+	************
+
+Deborah
+Computer Loss
+
+	************
+
+Angela
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player davdi's Cards: 
+Four of Hearts
+Four of Spades
+Six of Spades
+Five of Hearts
+
+Total: 19
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Ace of Spades
+Four of Diamonds
+Five of Diamonds
+
+Total: 20
+Deborah left the table!
+Angela left the table!
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 09:18:29 2016
+
+=========================
+
+Dillon
+Player Dillon's Cards: 
+Six of Spades
+Four of Spades
+
+Total: 10
+
+	************
+
+Deborah
+Player Deborah's Cards: 
+Seven of Spades
+Ten of Hearts
+
+Total: 17
+
+	************
+
+Tim
+Player Tim's Cards: 
+Four of Diamonds
+Four of Clubs
+
+Total: 8
+
+	************
+
+Jane
+Player Jane's Cards: 
+King of Diamonds
+Ace of Spades
+
+Total: 21
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Ten of Diamonds
+Ten of Clubs
+
+Total: 20
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Seven of Diamonds
+Nine of Spades
+
+Total: 16
+Dillon hit.
+Deborah stands.
+Tim hit.
+Jane stands.
+
+Dealer hit.
+Dealer stands.
+
+FINAL RESULTS
+
+Dillon
+Computer Win
+
+	************
+
+Deborah
+Computer Loss
+
+	************
+
+Tim
+Computer Loss
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Ten of Diamonds
+Ten of Clubs
+
+Total: 20
+	************
+
+
+You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Seven of Diamonds
+Nine of Spades
+Two of Clubs
+
+Total: 18
+Deborah left the table!
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 09:18:39 2016
+
+=========================
+
+Dillon
+Player Dillon's Cards: 
+Nine of Spades
+Jack of Clubs
+
+Total: 19
+
+	************
+
+Tim
+Player Tim's Cards: 
+Five of Hearts
+Ace of Clubs
+
+Total: 16
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Spades
+Seven of Hearts
+
+Total: 11
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Eight of Hearts
+
+Total: 11
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Clubs
+Two of Diamonds
+
+Total: 12
+Dillon stands.
+Tim hit.
+Jane hit.
+
+Dillon
+Player Dillon's Cards: 
+Nine of Spades
+Jack of Clubs
+
+Total: 19
+
+	************
+
+Tim
+Player Tim's Cards: 
+Five of Hearts
+Ace of Clubs
+Seven of Spades
+
+Total: 13
+
+	************
+
+Jane
+Player Jane's Cards: 
+Four of Spades
+Seven of Hearts
+Ten of Clubs
+
+Total: 21
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Eight of Hearts
+Six of Clubs
+
+Total: 17
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Clubs
+Two of Diamonds
+
+Total: 12
+Dillon stands.
+Tim hit.
+Jane stands.
+
+Dealer hit.
+Dealer busted.
+
+FINAL RESULTS
+
+Dillon
+Computer Win
+
+	************
+
+Tim
+Computer Loss
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Three of Hearts
+Eight of Hearts
+Six of Clubs
+
+Total: 17
+	************
+
+
+Dealer Busted You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Clubs
+Two of Diamonds
+Queen of Diamonds
+
+Total: 22
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 09:18:50 2016
+
+=========================
+
+Dillon
+Player Dillon's Cards: 
+Nine of Diamonds
+Jack of Hearts
+
+Total: 19
+
+	************
+
+Tim
+Player Tim's Cards: 
+King of Hearts
+Eight of Spades
+
+Total: 18
+
+	************
+
+Jane
+Player Jane's Cards: 
+Nine of Hearts
+Six of Hearts
+
+Total: 15
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Ace of Hearts
+Ace of Diamonds
+
+Total: 12
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Seven of Clubs
+Nine of Clubs
+
+Total: 16
+Dillon stands.
+Tim stands.
+Jane hit.
+
+Dillon
+Player Dillon's Cards: 
+Nine of Diamonds
+Jack of Hearts
+
+Total: 19
+
+	************
+
+Tim
+Player Tim's Cards: 
+King of Hearts
+Eight of Spades
+
+Total: 18
+
+	************
+
+Jane
+Player Jane's Cards: 
+Nine of Hearts
+Six of Hearts
+Jack of Clubs
+
+Total: 25
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Ace of Hearts
+Ace of Diamonds
+Five of Spades
+
+Total: 17
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Seven of Clubs
+Nine of Clubs
+
+Total: 16
+Dillon stands.
+Tim stands.
+Jane busted.
+
+Dealer hit.
+Dealer busted.
+
+FINAL RESULTS
+
+Dillon
+Computer Win
+
+	************
+
+Tim
+Computer Win
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Ace of Hearts
+Ace of Diamonds
+Five of Spades
+
+Total: 17
+	************
+
+
+Dealer Busted You Win!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+Seven of Clubs
+Nine of Clubs
+Six of Clubs
+
+Total: 22
+
+
+BLACKJACK GAMEPLAY LOG
+Game Played on Tue Dec 06 09:18:59 2016
+
+=========================
+
+Dillon
+Player Dillon's Cards: 
+Three of Hearts
+Queen of Spades
+
+Total: 13
+
+	************
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Two of Hearts
+
+Total: 7
+
+	************
+
+Jane
+Player Jane's Cards: 
+Ten of Spades
+Three of Clubs
+
+Total: 13
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Seven of Hearts
+Six of Diamonds
+
+Total: 13
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Spades
+Ace of Diamonds
+
+Total: 21
+Dillon hit.
+Tim hit.
+Jane hit.
+
+Dillon
+Player Dillon's Cards: 
+Three of Hearts
+Queen of Spades
+Queen of Clubs
+
+Total: 23
+
+	************
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Two of Hearts
+Four of Clubs
+
+Total: 11
+
+	************
+
+Jane
+Player Jane's Cards: 
+Ten of Spades
+Three of Clubs
+Two of Hearts
+
+Total: 15
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Seven of Hearts
+Six of Diamonds
+Ace of Spades
+
+Total: 14
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Spades
+Ace of Diamonds
+
+Total: 21
+Dillon busted.
+Tim hit.
+Jane hit.
+
+Dillon
+Player Dillon's Cards: 
+Three of Hearts
+Queen of Spades
+Queen of Clubs
+
+Total: 23
+
+	************
+
+Tim
+Player Tim's Cards: 
+Five of Diamonds
+Two of Hearts
+Four of Clubs
+Eight of Diamonds
+
+Total: 19
+
+	************
+
+Jane
+Player Jane's Cards: 
+Ten of Spades
+Three of Clubs
+Two of Hearts
+Four of Hearts
+
+Total: 19
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Seven of Hearts
+Six of Diamonds
+Ace of Spades
+Three of Spades
+
+Total: 17
+	************
+
+
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Spades
+Ace of Diamonds
+
+Total: 21
+Dillon busted.
+Tim stands.
+Jane stands.
+
+Dealer stands.
+
+FINAL RESULTS
+
+Dillon
+Computer Loss
+
+	************
+
+Tim
+Computer Loss
+
+	************
+
+Jane
+Computer Loss
+
+	************
+
+
+#################
+#    Player 1   #
+#################
+
+Player david's Cards: 
+Seven of Hearts
+Six of Diamonds
+Ace of Spades
+Three of Spades
+
+Total: 17
+	************
+
+
+Dealer Won!
+#################
+#    Dealer     #
+#################
+
+Player Dealer's Cards: 
+King of Spades
+Ace of Diamonds
+
+Total: 21
+Tim left the table!
+
